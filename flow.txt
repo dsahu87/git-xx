@@ -1,0 +1,3 @@
+Insertion of text..
+
+release 1.0.
